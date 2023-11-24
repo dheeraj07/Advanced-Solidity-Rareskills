@@ -1,0 +1,13 @@
+# Compiler files
+Week1/cache/
+Week1/out/
+
+# Ignores development broadcast logs
+Week1/broadcast/*/31337/
+Week1/broadcast/**/dry-run/
+
+# Docs
+Week1/docs/
+
+# Dotenv file
+Week1/.env
