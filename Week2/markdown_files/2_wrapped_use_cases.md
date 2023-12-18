@@ -1,0 +1,3 @@
+# `Besides the examples listed in the code and the reading, what might the wrapped NFT pattern be used for?`
+- Wrapping functionality can be used to add new features to existing tokens. 
+- For example, consider a scenario where an NFT collection is initially released. If, in the future, the creators decide to implement governance features, they could deploy a new contract to issue wrapped tokens. Alongside, a governance contract might be introduced, which operates based on these wrapped NFT tokens. 
